@@ -1,0 +1,9 @@
+# environment
+.env
+
+.idea/
+
+#node modules
+node_modules/
+
+coverage/
